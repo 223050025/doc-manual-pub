@@ -48,5 +48,5 @@ fastq-dump --split-files SRR061633
 If you want to download the whole SRA file, use this commands
 
 ```
-prefetch SRP061633
+prefetch SRR061633
 ```
